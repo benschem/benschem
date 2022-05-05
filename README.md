@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benschem
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m not looking to collaborate ...yet
 - 📫 Reach me @ben_schembri_ on twitter
 
